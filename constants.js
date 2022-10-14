@@ -90,7 +90,7 @@ const YOU_WIN = [
 ]
 
 
-const insults = [
+const INSULTS = [
     `bruh...`,
     `git gud`,
     `epic fail`,
@@ -113,5 +113,5 @@ module.exports = {
   GAME_OVER: GAME_OVER,
   TITLE_SCREEN: TITLE_SCREEN,
   YOU_WIN: YOU_WIN,
-  insults: insults
+  INSULTS: INSULTS
 };
